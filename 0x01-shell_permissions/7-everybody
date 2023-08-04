@@ -1,2 +1,2 @@
 #!/bin/bash
-chown ugo+x :wq hello
+chown ugo+x hello
